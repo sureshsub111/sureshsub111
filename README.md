@@ -11,7 +11,7 @@
 <h3 align="center">🔬 SDET | Automation Test Engineer | Selenium Expert</h3>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&width=1535&lines=Automation+Testing+Specialist;Selenium+%2B+Java+Expert;TestNG+%26+Cucumber+Pro;API+Testing+with+RestAssured;3%2B+Years+Experience" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&width=235&lines=Automation+Testing+Specialist;Selenium+%2B+Java+Expert;TestNG+%26+Cucumber+Pro;API+Testing+with+RestAssured;3%2B+Years+Experience" alt="Typing SVG" />
 </div>
 
 ---
