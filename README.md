@@ -1,13 +1,14 @@
+<!-- Save banner.svg in your repo’s root, then use this README.md content -->
+
 <div align="center">
-  <img height="150" src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966"  />
+  <img src="banner.svg" alt="Custom Banner" style="max-width:100%; height:auto;" />
 </div>
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=sureshsub111.sureshsub111&"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=sureshsub111.sureshsub111&" alt="Visitor Badge" />
 </div>
 
 <h1 align="center">👋 Hi there! I'm Suresh Subramaniyam</h1>
-
 <h3 align="center">🔬 SDET | Automation Test Engineer | Selenium Expert</h3>
 
 <div align="center" style="width: 100%; display: flex; justify-content: center;">
@@ -20,10 +21,11 @@
   </div>
 </div>
 
-
 ---
 
 ## 🚀 **Professional Summary**
+
+
 
 
 ### 💡 **What I Do**
