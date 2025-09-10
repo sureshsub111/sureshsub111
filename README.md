@@ -13,7 +13,7 @@
 <div align="center" style="width: 100%; display: flex; justify-content: center;">
   <div style="max-width: 500px; width: 100%;">
     <img
-      src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&width=500&lines=Automation+Testing+Specialist;Selenium+%2B+Java+Expert;TestNG+%26+Cucumber+Pro;API+Testing+with+RestAssured;3%2B+Years+Experience"
+      src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&width=500&lines=Automation+Testing+Specialist;Selenium+%2B+Java;TestNG+%26+Cucumber;API+Testing+with+RestAssured;3%2B+Years+Experience"
       alt="Typing SVG"
       style="display: block; margin: 0 auto;"
     />
