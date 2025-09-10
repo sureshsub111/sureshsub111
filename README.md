@@ -22,8 +22,8 @@
 ### 💡 **What I Do**
 - 🎯 **Design & Develop** enterprise-level automation frameworks using Selenium WebDriver & Java
 - 🔧 **Build scalable test architectures** with Page Object Model, Factory Pattern, and ThreadLocal WebDriver
-- 🌐 **API Testing expertise** with RestAssured, OAuth2/JWT authentication flows
-- 📊 **CI/CD Integration** with Jenkins, Azure DevOps, and GitHub Actions
+- 🌐 **API Testing expertise** with RestAssured
+- 📊 **CI/CD Integration** with Jenkins
 - 🚀 **Parallel execution strategies** using TestNG and Selenium Grid
 - 📈 **Test reporting & analytics** with Extent Reports and custom dashboards
 
@@ -43,15 +43,12 @@
 ### **Framework & Build Tools**
 <div align="left">
   <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
   <img src="https://img.shields.io/badge/Apache_POI-D22128?style=for-the-badge&logo=apache&logoColor=white" />
 </div>
 
 ### **DevOps & CI/CD**
 <div align="left">
   <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" />
-  <img src="https://img.shields.io/badge/Azure_DevOps-0078D4?style=for-the-badge&logo=azure-devops&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
 </div>
 
 ### **Tools & Platforms**
@@ -118,9 +115,7 @@
 
 ## 🌟 **Professional Highlights**
 
-> 💼 **Currently at HCL Technologies** - Building enterprise automation solutions
-
-> 🎓 **Previous Experience at Accenture** - Comprehensive test framework development
+> 💼 **Currently at Accenture** - Building enterprise automation solutions
 
 > 🏆 **3+ Years of Expertise** in Selenium WebDriver and Java automation
 
@@ -128,8 +123,7 @@
 
 > 📊 **API Testing Integration** - RestAssured with OAuth2/JWT flows
 
-> 🔧 **DevOps Integration** - Jenkins, Azure DevOps, GitHub Actions
-
+> 🔧 **DevOps Integration** - Jenkins
 ---
 
 ## 📈 **Current Focus Areas**
@@ -146,8 +140,8 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/-Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/suresh-automation)
-[![Email](https://img.shields.io/badge/-Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:suresh.automation@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sureshs98/)
+[![Email](https://img.shields.io/badge/-Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sureshsubramaniyam112@gmail.com)
 [![GitHub](https://img.shields.io/badge/-Follow_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sureshsub111)
 
 **📞 Open to discussing automation challenges and opportunities!**
